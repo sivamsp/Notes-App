@@ -8,12 +8,12 @@ const AboutPage: NextPage<{}> = () => {
       <AppHeader />
       <div className="about-page__content">
         <h1>About</h1>
-        <p>Hi my name is Pavan. I built this app for Serokell.</p>
+        <p>Hi my name is Pavan. This is a take home assignment for position at Serokell.</p>
         <p>
-          I love building sound type safe applications. The following it the
+          I love building sound type safe applications. The following is the
           source code for a full fledged podcast player{' '}
-          <small>(called Phenopod)</small> that I built some time ago. Do have a
-          look, I think it will give some opinion on how I write programs 😊.
+          <small>(called Phenopod)</small> that I built some time ago. I think
+          it will give some opinion on how I write programs 😊.
         </p>
         <ul>
           <li>
