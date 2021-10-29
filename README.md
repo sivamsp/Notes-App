@@ -41,7 +41,7 @@ open localhost:4000 in browser
 - [x] Other functionality:
     - [x] Support routing (When refreshed, it should stay on the same page)
     - [x] An example of the routes:
-        - [?] Home page: `/` or `/home` (redirects to `/notes`)
+        - [ ] Home page: `/` or `/home` (redirects to `/notes`)
         - [x] Create a new note: `/new`
         - [x] Edit a note: `/notes/{id}/edit`
         - [x] About page: `/about`
@@ -50,11 +50,11 @@ open localhost:4000 in browser
 
 ### Bonus Checklist
 
-- [?] Documentation
+- [ ] Documentation 
 - [x] Good design and animation
 - [x] Server-side rendering is supported (Partial Hydration on client side)
 - [ ] Containing unit tests and/or end-to-end tests
-- [?] Mobile availability
+- [ ] Mobile availability (partially responsive)
 - [ ] Bonus functionality (implement it only if you are sure that your application meets all base
    requirements):
     - [ ] Filtering and sorting
