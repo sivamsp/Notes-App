@@ -1,4 +1,4 @@
-## Notes App
+## Notes App <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-16.10.0-blue">
 Middle Typescript developer [Take Home Assignment](https://github.com/serokell/frontend-task-react) from Serokell
 
 - This is Typescript / ReactJS / SCSS application bootstrapped with NextJS.
