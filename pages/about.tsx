@@ -8,7 +8,10 @@ const AboutPage: NextPage<{}> = () => {
       <AppHeader />
       <div className="about-page__content">
         <h1>About</h1>
-        <p>Hi my name is Pavan. This is a take home assignment for position at Serokell.</p>
+        <p>
+          Hi my name is Pavan. This is a take home assignment for position at
+          Serokell.
+        </p>
         <p>
           I love building sound type safe applications. The following is the
           source code for a full fledged podcast player{' '}
@@ -24,7 +27,7 @@ const AboutPage: NextPage<{}> = () => {
             </a>
           </li>
           <li>
-            Mobile Appl <em>(Flutter/Dart)</em>
+            Mobile App <em>(Flutter/Dart)</em>
             &nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://github.com/VarmaMSP/piano" target="_blank">
               Repo link
