@@ -1,0 +1,14 @@
+@import 'resets/normalize.css';
+
+@import 'components/app-header.scss';
+@import 'components/create-note.scss';
+@import 'components/note-card.scss';
+@import 'components/note-expanded.scss';
+
+@import 'pages/error-page.scss';
+@import 'pages/notes-page.scss';
+@import 'pages/about-page.scss';
+
+body {
+  font-family: Lato, sans-serif;
+}
